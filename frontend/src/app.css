@@ -196,7 +196,6 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
   position: sticky;
   top: 0;
   z-index: 30;
-  backdrop-filter: blur(14px);
 }
 .app-header nav { display: flex; gap: .15rem; margin-left: auto; }
 /* Terminal view carries five controls beside the title on a 390px line, so the
